@@ -25,7 +25,7 @@ class mysql_kift_laravel_StatusTableSeeder extends Seeder
                 'deleted_at' => NULL,
                 'user_id' => 1,
                 'current' => 0,
-                'statusable_id' => '1',
+                'statusable_id' => '0',
                 'statusable_type' => 'App\\Models\\Order',
                 'state_name' => 'payment',
                 'state_value' => 'unpay',
